@@ -6,7 +6,7 @@ Thank you for using Pearl!
   These terms and conditions of use (“Terms of Use”) apply to your access to, and use of, the Website of Pearl Healthcare Technologies, Inc. ("Pearl”), located at HelloPearl.co and all related web sites, mobile sites, data files, visualizations, and applications which link to these Terms of Use (the “Sites”) and to all features and services accessed through the Sites (the “Pearl Service”).
 
 ## 1. Privacy
-Please refer to Pearl’s Privacy Policy for information on how Pearl collects, uses and discloses personally identifiable information from its users that are conducting general searches.
+Please refer to [Pearl’s Privacy Policy](https://github.com/hellopearlcare/legal/blob/master/privacy.md) for information on how Pearl collects, uses and discloses personally identifiable information from its users that are conducting general searches.
 
 The privacy of information maintained in Pearl’s User Accounts is governed by our Notice of Privacy Practices.
 
