@@ -2,8 +2,13 @@ Pearl Terms of Service
 Last Updated: August 17, 2017
 Thank you for using Pearl!
 
-## 1. Terms of Use
+## 0. Terms of Use
   These terms and conditions of use (“Terms of Use”) apply to your access to, and use of, the Website of Pearl Healthcare Technologies, Inc. ("Pearl”), located at HelloPearl.co and all related web sites, mobile sites, data files, visualizations, and applications which link to these Terms of Use (the “Sites”) and to all features and services accessed through the Sites (the “Pearl Service”).
+
+## 1. Privacy
+Please refer to Pearl’s Privacy Policy for information on how Pearl collects, uses and discloses personally identifiable information from its users that are conducting general searches.
+
+The privacy of information maintained in Pearl’s User Accounts is governed by our Notice of Privacy Practices.
 
 ## 2. About Pearl Service
   Pearl uses proprietary processes and algorithms to provide information to users (“Users”) to assist them in finding and selecting a dentist or other health provider (a “Provider”). The Pearl Service also includes a booking service that will assist Users in making an appointment with a Provider located through the Pearl Service (the “Booking Service”). If you make an appointment through the Booking Service, you acknowledge and agree that you are entering into a direct relationship with the Provider. It is solely up to you to verify whether the insurance plan you have will apply to the Provider and the services being provided.
