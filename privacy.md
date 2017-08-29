@@ -1,8 +1,8 @@
-# Privacy Policy
-
 Pearl Website and Service Privacy Policy
-Last Updated: August 17, 2017
+Last Updated: August 29, 2017
 Thank you for using Pearl!
+
+# Privacy Policy
 
 This Privacy Policy explains how information about you is collected, used and disclosed by Pearl Healthcare Technologies, Inc. ("Pearl"). This Privacy Policy applies to information we collect when you register for an account or use our websites, mobile applications, and other online products and services that link to this Privacy Policy (collectively, the "Services").
 Please Read Carefully Prior To Using Our Services. By entering and using this Site, you affirm that you have read and understood Pearl’s Website Privacy Policy and Terms of Use that you agree to abide by them. If you do not agree to abide by Pearl’s Terms of Use and this Privacy Policy, you may not enter, access, or otherwise use our Services. The use of our Services is conditioned upon your acceptance of the terms and conditions contained in this Privacy Policy which is part of and incorporated by reference into the Terms of Use of the Site.
